@@ -1,4 +1,4 @@
-# Step_to_Job
+# StepToJob
 A resume making web app to make your resume easily in few minutes with readyGo templates.
 
 - [ ] ReactJS (Front-end).
